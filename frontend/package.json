@@ -8,10 +8,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "chart.js": "^4.4.1"
+    "chart.js": "^4.4.1",
+    "socket.io-client": "^4.8.3"
   },
   "devDependencies": {
     "vite": "^5.4.0"
   }
 }
-
